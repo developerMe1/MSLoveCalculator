@@ -1,2 +1,2 @@
 # MSLoveCalculator
-This is a simple Love Calculator for Android.
+This is a simple Funny Love Calculator for Android.
